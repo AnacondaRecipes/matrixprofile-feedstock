@@ -22,7 +22,7 @@ requirements:
     - libgomp      # [linux and not (ppc64le)]
   host:
     - cython
-    - numpy >=1.16.2
+    - numpy
     - pip
     - python
     - setuptools >=39.1.0
